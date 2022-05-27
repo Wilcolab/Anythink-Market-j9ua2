@@ -13,6 +13,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 1. Install Docker on your local machine
 1. Clone this repo to your local machine
 1. Run Docker and test the connection to the database by heading to [http://localhost:3000/api/ping](http://localhost:3000/api/ping)
-> Note, make sure to start docker. If you receive an error ensure Docker is running on your machine. 
+    > Note, make sure to start docker. If you receive an error ensure Docker is running on your machine. 
 1. Check that the frontend is connected by heading to [http://localhost:3001/register](http://localhost:3001/register)
 1. Register a new user with the form on screen. 
